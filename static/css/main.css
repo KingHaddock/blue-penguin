@@ -70,7 +70,7 @@ header, #wrapper {
 
 a {
     text-decoration: none;
-    color: #15A9DB;
+    color: #800020;
 }
 
 ul {
@@ -271,7 +271,7 @@ nav a:hover {
     color: #FFF;
 }
 nav li.selected a {
-    background-color: #15A9DB;
+    background-color: #800020;
     color: #FFF;
 }
 
